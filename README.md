@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Mio Yamamoto, host of @mono-repository
+
+- 🏫 I'm a Student at Kindai University. Majoring CS.
 - 👀 I’m interested in 
 - * Robotics Engineering like RPI × ROS
 - * making Next.js Website using Prismic Slice, Tailwind, Photoshop to create key visual.  
